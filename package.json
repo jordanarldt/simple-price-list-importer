@@ -1,0 +1,17 @@
+{
+  "name": "simple-price-list-importer",
+  "version": "1.0.0",
+  "description": "Simple script to update price list record Price values",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Arldt",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.16.0",
+    "express": "^4.17.1",
+    "fs-extra": "^10.0.0",
+    "node-bigcommerce": "^4.1.0"
+  }
+}
